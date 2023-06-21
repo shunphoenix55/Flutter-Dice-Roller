@@ -1,16 +1,6 @@
-# first_app
+# Dice Roller
 
-A new Flutter project.
+A simple flutter project for an app that rolls a die on pressing a button
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/shunphoenix55/Flutter-Dice-Roller/assets/76583147/13adfaa0-9b73-4dd3-9815-8535cff5339c)
+![image](https://github.com/shunphoenix55/Flutter-Dice-Roller/assets/76583147/43bf31c2-94dd-4b42-9f9c-23ef2bf91bc6)
